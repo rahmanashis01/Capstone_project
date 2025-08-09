@@ -1,0 +1,4 @@
+# Redemption History File
+# Format: USERNAME POINTS_USED DISCOUNT_VALUE DATE
+Ashis_01 100 5.00 10/08/2025
+Ashis_01 100 5.00 10/08/2025

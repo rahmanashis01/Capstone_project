@@ -1,0 +1,8 @@
+Ashis_01 tyres 1 35.00
+Ashis_01 tyres 2 70.00
+Ashis_01 tyres 1 35.00 Cash Sat Aug 09 20:48:11 2025
+Ashis_01 tyres 2 70.00 Cash Sun Aug 10 00:44:30 2025
+Ashis_01 tyres 4 140.00 Cash Sun Aug 10 00:45:29 2025
+Ashis_01 tyres 1 35.00 Cash Sun Aug 10 00:46:38 2025
+Ashis_01 tyres 3 78.75 Cash Sun Aug 10 01:03:24 2025
+Ashis_01 tyres 4 105.00 Online Sun Aug 10 01:05:01 2025

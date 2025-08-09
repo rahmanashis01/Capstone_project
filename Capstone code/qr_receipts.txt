@@ -1,0 +1,4 @@
+# QR Receipts File
+# Format: QR_CODE|USERNAME|DATE|AMOUNT|SERVICE_DETAILS
+QR_Ashis_01_1754763870|Ashis_01|10/08/2025|161.00|Invoice_Total:$161.00_VAT:$21.00_Customer:Ashis
+QR_Ashis_01_1754764844|Ashis_01|10/08/2025|161.00|Invoice_Total:$161.00_VAT:$21.00_Customer:Ashis
