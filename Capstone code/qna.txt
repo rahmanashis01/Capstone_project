@@ -1,0 +1,24 @@
+Q: My car engine is overheating. What should I do?
+A: Turn off the AC, turn on the heater, pull over safely, turn off the engine, check coolant level (when cool), and call for help if needed.
+
+Q: My car won't start. What are the possible causes?
+A: Check battery connections, try jump-starting, check fuel level, ensure the gear is in Park/Neutral, and verify the starter motor.
+
+Q: Why are my brakes making squeaking noises?
+A: Usually indicates worn brake pads. Have them inspected immediately as this is a safety issue. May also be due to dust or moisture.
+
+Q: How often should I change my car's oil?
+A: Generally every 3,000-7,500 miles depending on oil type. Synthetic oil lasts longer. Check your owner's manual for specific recommendations.
+
+Q: My car is pulling to one side while driving. What's wrong?
+A: Could be tire pressure imbalance, wheel alignment issues, or brake problems. Check tire pressure first, then visit a mechanic.
+
+Q: What should I do if my car battery dies?
+A: Use jumper cables with another car, call roadside assistance, or use a portable battery pack. Replace old batteries preventively.
+
+Q: How can I improve my car's fuel efficiency?
+A: Maintain proper tire pressure, regular oil changes, remove excess weight, drive smoothly, and keep up with regular maintenance.
+
+Q: My check engine light is on. Is it serious?
+A: It varies. If blinking, stop driving immediately. If steady, get it diagnosed soon. Could range from loose gas cap to serious engine issues.
+

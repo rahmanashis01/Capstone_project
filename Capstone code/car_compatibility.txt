@@ -1,0 +1,2 @@
+# Car Compatibility File
+# Format: CAR_BRAND|COMPATIBLE_PARTS

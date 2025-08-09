@@ -1,0 +1,3 @@
+# Customer Badges File
+# Format: USERNAME BADGE_NAME DATE
+Ashis_01 First_Purchase 10/08/2025
