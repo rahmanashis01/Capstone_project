@@ -1,4 +1,4 @@
-Capstone Project
+🎓 Capstone Project
 This repository contains the source code for a unique capstone project developed throughout the semester as part of a course module. The project was built from scratch in C programming under the guidance of our faculty.
 
 🌟 Project Description
