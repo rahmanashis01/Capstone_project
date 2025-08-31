@@ -5,18 +5,17 @@ This repository contains the source code for a unique capstone project developed
 This project aims to [Briefly describe what your project does here. For example: "provide a robust solution for managing student records within a university system." or "simulate a simple operating system to better understand memory allocation."]. It was a journey of applying core programming concepts and problem-solving skills to bring a creative idea to life.
 
 ✨ Key Features
-[Feature 1]: A detailed explanation of a key feature.
+[Feature 1]: Unique Dashboard with ASCII logo
 
-[Feature 2]: Another unique feature of your project.
+[Feature 2]:Date based filtering in report
 
-[Feature 3]: A third feature that highlights your work.
+[Feature 3]: webassemby and API's integrated 
 
-⚙️ Technology Stack
-Language: C
+⚙️ Technology Language: C
 
 Compiler: [e.g., GCC, Clang]
 
-Libraries (if any): [e.g., <stdio.h>, <stdlib.h>]
+Libraries:<stdio.h>, <stdlib.h>
 
 🚀 Getting Started
 To compile and run this project, follow these simple steps:
