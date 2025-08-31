@@ -23,7 +23,7 @@ To compile and run this project, follow these simple steps:
 
 Clone the repository:
 
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+git clone [https://github.com/rahmanashis01/Capstone_project.git](https://github.com/your-username/your-repository-name.git)
 cd Capstone_project
 
 Compile the source code:
